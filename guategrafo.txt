@@ -1,0 +1,16 @@
+GuatemalaCity Mixco 15
+GuatemalaCity Antigua 45
+GuatemalaCity Escuintla 60
+GuatemalaCity Jalapa 90
+Mixco Antigua 30
+Antigua Escuintla 25
+Antigua Chimaltenango 20
+Chimaltenango Quetzaltenango 90
+Escuintla SantaLucia 15
+Escuintla Mazatenango 50
+Quetzaltenango Mazatenango 70
+Mazatenango Retalhuleu 40
+SantaLucia Mazatenango 35
+Jalapa Jutiapa 60
+Jutiapa SantaRosa 45
+SantaRosa Escuintla 30
